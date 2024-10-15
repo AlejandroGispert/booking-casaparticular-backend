@@ -1,10 +1,10 @@
-# casaparticularconchita-Backend
+# Backend for:
+casaparticularconchita-Backend
 
-# booking-casaparticular-backend
+booking-casaparticular-backend
 
-# Backend for MyApp
 
-This is the backend for **MyApp**, built using **Node.js**, **Express**, **GraphQL**, and **MongoDB**. This backend provides a GraphQL API for interacting with the application's data stored in a MongoDB database.
+This is built using **Node.js**, **Express**, **GraphQL**, and **MongoDB**. This backend provides a GraphQL API for interacting with the application's data stored in a MongoDB database.
 
 ## Features
 
